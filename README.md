@@ -42,8 +42,8 @@ Me chamo Julio Cesar Cortez, tenho 39 anos. Tenho mais de 20 anos de experiênci
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="React e React Native"
+    title="React e React Native" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
