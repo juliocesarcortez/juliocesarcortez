@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Julio Cesar Cortez e tenho 39 anos. Possuo mais de 20 anos de experiência na área de desenvolvimento web e, atualmente, estou me atualizando com novas tecnologias do mercado. Minha trajetória profissional sempre esteve dividida entre duas áreas, pois também construí uma carreira de sucesso no mercado imobiliário de alto padrão em São Paulo, atuando como corretor na maior imobiliária do país, a ("[Bossa Nova Sotheby's International Realty](https://www.bnsir.com.br/)").
+Me chamo Julio Cesar Cortez e tenho 39 anos. Possuo mais de 20 anos de experiência na área de desenvolvimento web e, atualmente, estou me atualizando com novas tecnologias do mercado. Minha trajetória profissional sempre esteve dividida entre duas áreas, pois também construí paralelamente a área de tecnologia, uma carreira de sucesso no mercado imobiliário de alto padrão em São Paulo, atuando como corretor na maior imobiliária do país, a ("[Bossa Nova Sotheby's International Realty](https://www.bnsir.com.br/)").
 
 Ao longo dos anos, tive a oportunidade de aprofundar meus conhecimentos em tecnologia em escolas renomadas, como Bras Figueiredo, Rocketseat e DIO. Meu propósito agora é dar mais destaque à minha carreira como desenvolvedor e buscar uma formação na área. Já sou graduado em Negócios Imobiliários e pretendo fazer um curso de extensão, uma pós ou um MBA em Full Stack Development ou Front-end Engineering na "[FIAP](https://postech.fiap.com.br/)".
 
