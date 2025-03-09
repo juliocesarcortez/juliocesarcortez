@@ -51,6 +51,15 @@ Me chamo Julio Cesar Cortez, tenho 39 anos. Tenho mais de 20 anos de experiênci
 
 <img 
     align="left" 
+    alt="Vue.JS"
+    title="Vue.JS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -78,15 +87,12 @@ Me chamo Julio Cesar Cortez, tenho 39 anos. Tenho mais de 20 anos de experiênci
 
 <img 
     align="left" 
-    alt="Vue.JS"
-    title="Vue.JS" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
 />
-
-
-
 
 <img 
     align="left" 
