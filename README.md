@@ -76,6 +76,17 @@ Me chamo Julio Cesar Cortez, tenho 39 anos. Tenho mais de 20 anos de experiênci
     src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Vue.JS"
+    title="Vue.JS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" 
+/>
+
+
+
 
 <img 
     align="left" 
