@@ -2,7 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Julio Cesar Cortez, tenho 39 anos. Tenho mais de 20 anos de experiência na área de desenvolvimento web, e atualmente estou me atualizando com novas tecnologias do mercado. Minha vida sempre foi dividida em duas profissões, pois também construí uma carreira de sucesso no mercado imobiliário de imóveis de alto padrão em São Paulo, atuando como corretor de imóveis na maior imobiliária do país ("[Bossa Nova Sotheby's International Realty](https://www.bnsir.com.br/)"). Meu propósito é dar mais destaque para minha carreira como desenvolvedor, e buscar uma formação na área. Já tenho graduação em negócios imobiliários e pretendo fazer um curso de extensão, uma pós ou MBA em Full Stack Development ou Front-end Engineering na "[FIAP](https://postech.fiap.com.br/)". Sou apaixonado por tecnologia, música, arte, design, games e tenho vontade de criar um canal no Youtube para compartilhar meu conhecimento e um pouco da minha vida através das minhas experiências que tive no decorrer da minha vida.
+Me chamo Julio Cesar Cortez e tenho 39 anos. Possuo mais de 20 anos de experiência na área de desenvolvimento web e, atualmente, estou me atualizando com novas tecnologias do mercado. Minha trajetória profissional sempre esteve dividida entre duas áreas, pois também construí uma carreira de sucesso no mercado imobiliário de alto padrão em São Paulo, atuando como corretor na maior imobiliária do país, a ("[Bossa Nova Sotheby's International Realty](https://www.bnsir.com.br/)").
+
+Ao longo dos anos, tive a oportunidade de aprofundar meus conhecimentos em tecnologia em escolas renomadas, como Bras Figueiredo, Rocketseat e DIO. Agora meu propósito agora é dar mais destaque à minha carreira como desenvolvedor e buscar uma formação na área. Já sou graduado em Negócios Imobiliários e pretendo fazer um curso de extensão, uma pós ou um MBA em Full Stack Development ou Front-end Engineering na "[FIAP](https://postech.fiap.com.br/)".
+
+Sou apaixonado por tecnologia, música, arte, design e games. Além disso, tenho vontade de criar um canal no YouTube para compartilhar meu conhecimento e um pouco da minha trajetória por meio das experiências que vivi ao longo da minha vida.
+
+
 
 ---
 
