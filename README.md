@@ -42,13 +42,12 @@ Me chamo Julio Cesar Cortez, tenho 39 anos. Tenho mais de 20 anos de experiênci
 />
 <img 
     align="left" 
-    alt="React Native"
-    title="React Native" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-native-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 
 <img 
     align="left" 
@@ -66,6 +65,15 @@ Me chamo Julio Cesar Cortez, tenho 39 anos. Tenho mais de 20 anos de experiênci
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Wordpress"
+    title="Wordpress" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg)" 
 />
 
 
