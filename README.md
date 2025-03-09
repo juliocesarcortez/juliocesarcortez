@@ -111,6 +111,7 @@ Sou apaixonado por tecnologia, música, arte, design e games. Além disso, tenho
 
 
 <br/>
+![Snake animation](https://github.com/juliocesarcortez/juliocesarcortez/blob/main/github-contribution-grid-snake.svg)
 
 
 <!--
